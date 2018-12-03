@@ -410,7 +410,12 @@
 										<span>Kp. Lebak Muncang, Desa Lebak Muncang, Ciwidey</span>
 										</span>
 									</div>
-									<a class="btn btn-info popup-gmaps text-uppercase pl-4 pr-4 text-2" href="https://maps.google.com/maps?q=221B+Baker+Street,+London,+United+Kingdom&amp;hl=en&amp;t=v&amp;hnear=221B+Baker+St,+London+NW1+6XE,+United+Kingdom">Lihat Lokasi di Map</a>
+									<a class="btn btn-info popup-gmaps text-uppercase pl-4 pr-4 text-2" href=
+									"https://maps.google.com/maps?q=221B+Baker+Street,+London,+United+Kingdom&amp;hl=en&amp;t=v&amp;hnear=221B+Baker+St,+London+NW1+6XE,+United+Kingdom"
+                                    "https://www.google.com/maps/place/SDN+Lebakmuncang+02/@-7.0897602,107.4472939,17z/data=!3m1!4b1!4m5!3m4!1s0x2e68f34c6366e883:0xf96b34870cf25270!8m2!3d-7.0897655!4d107.4494826"
+									>Lihat Lokasi di Map</a>
+
+
 								</div>
 							</div>
 							<!-- <div class="col-md-8 col-lg-5 mt-5 pt-5">
