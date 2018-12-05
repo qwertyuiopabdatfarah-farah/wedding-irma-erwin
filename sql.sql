@@ -31,7 +31,7 @@
 -UPDATE daftar_dosen SET no_hp ='085298710065', alamat = 'Jl. Raya' WHERE id=1;
 -UPDATE daftar_dosen SET alamat ='Surabaya' WHERE nama_dosen='Rubin Hadi' OR NIP_dosen='1080432007' OR no_hp='0812345234';
 -UPDATE daftar_dosen SET no_hp='085278790005'; //seluruh table
-UPDATE daftar_dosen SET nama_dosen = UPPER (nama_dosen //Mengubah Huruf Kolom Tabel Secara Permanen
+UPDATE daftar_dosen SET nama_dosen = UPPER (nama_dosen) //Mengubah Huruf Kolom Tabel Secara Permanen
 -SELECT DISTINCT nama_kolom FROM nama_tabel;
 variabel
 -SELECT @kota := alamat FROM daftar_dosen WHERE nama_dosen = 'Maya Ari Putri';
@@ -40,7 +40,10 @@ variabel
 -INSERT INTO daftar_dosen_baru SELECT * FROM daftar_dosen; //mengcopy isi table
 -INSERT INTO daftar_dosen_baru SELECT * FROM daftar_dosen WHERE alamat = 'Palembang';
 -DATE_FORMAT(nama_kolom, ‘string format’) = SELECT DATE_FORMAT(dt, '%d/%m/%Y') FROM belajar_date;
-
+//import data ke table
+-create database if not exists nama_databasenya;
+-use nama_databasenya;
+-source D:/nama_folder/nama_databasenya.sql
 
 
 
@@ -96,6 +99,7 @@ No. 7
 SELECT `nomor_kontrak`, `nama_lengkap`, `awal_kontrak`, `akhir_kontrak`, `posisi_kerja`, `mulai_bekerja` FROM `view_master_pekerja`;
 
 No. 8 
+update data_pekerja INNER JOIN contract on data_pekerja.id = contract.id set data_pekerja.nama = 'Erwin', contract.nilai = 3 WHERE contract.no_kontrak = 'eHOP140227';
 UPDATE data_pekerja INNER JOIN contract on data_pekerja.id = contract.id set data_pekerja.kelamin = 'w' WHERE contract.no_kontrak = 'PKS.093/LG.05/AR.003/X/2013';
 update data_pekerja INNER JOIN contract on data_pekerja.id = contract.id set data_pekerja.nama = 'Erwin' WHERE contract.no_kontrak = 'eHOP140227';
 No. 9 

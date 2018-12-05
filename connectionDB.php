@@ -1,8 +1,8 @@
 <?php  
-$db_host    = 'localhost'; 
-$db_usn     = 'root'; 
-$db_pwd     = '1234567'; 
-$db_name    = 'tamu_undangan'; 
+$db_host    = 'remotemysql.com'; 
+$db_usn     = 'lNdn9FbTcU'; 
+$db_pwd     = 'cRurD1CG4B'; 
+$db_name    = 'lNdn9FbTcU'; 
 
 $koneksi    = mysqli_connect($db_host,$db_usn,$db_pwd,$db_name);
 if (!$koneksi){
