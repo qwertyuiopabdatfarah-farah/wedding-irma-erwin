@@ -13,8 +13,8 @@
 		<meta name="author" content="okler.net">
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+		<link rel="shortcut icon" href="imgnya/favicon.ico" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="imgnya/apple-touch-icon.png">
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -22,37 +22,37 @@
 		<!-- Web Fonts  -->
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CGreat+Vibes" rel="stylesheet" type="text/css">
 
-		<!-- Vendor CSS -->
-		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-		<link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="vendor/animate/animate.min.css">
-		<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
-		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
-		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
-		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+		<!-- Vendornya CSS -->
+		<link rel="stylesheet" href="vendornya/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="vendornya/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="vendornya/animate/animate.min.css">
+		<link rel="stylesheet" href="vendornya/simple-line-icons/css/simple-line-icons.min.css">
+		<link rel="stylesheet" href="vendornya/owl.carousel/assets/owl.carousel.min.css">
+		<link rel="stylesheet" href="vendornya/owl.carousel/assets/owl.theme.default.min.css">
+		<link rel="stylesheet" href="vendornya/magnific-popup/magnific-popup.min.css">
 
 		<!-- Theme CSS -->
-		<link rel="stylesheet" href="css/theme.css">
-		<link rel="stylesheet" href="css/theme-elements.css">
-		<link rel="stylesheet" href="css/theme-blog.css">
-		<link rel="stylesheet" href="css/theme-shop.css">
+		<link rel="stylesheet" href="cssnya/theme.css">
+		<link rel="stylesheet" href="cssnya/theme-elements.css">
+		<link rel="stylesheet" href="cssnya/theme-blog.css">
+		<link rel="stylesheet" href="cssnya/theme-shop.css">
 
 		<!-- Current Page CSS -->
-		<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
-		<link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
-		<link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">
+		<link rel="stylesheet" href="vendornya/rs-plugin/css/settings.css">
+		<link rel="stylesheet" href="vendornya/rs-plugin/css/layers.css">
+		<link rel="stylesheet" href="vendornya/rs-plugin/css/navigation.css">
 		
 		<!-- Demo CSS -->
-		<link rel="stylesheet" href="css/demos/demo-wedding.css">
+		<link rel="stylesheet" href="cssnya/demos/demo-wedding.css">
 
 		<!-- Skin CSS -->
-		<link rel="stylesheet" href="css/skins/skin-wedding.css"> 
+		<link rel="stylesheet" href="cssnya/skins/skin-wedding.css"> 
 
 		<!-- Theme Custom CSS -->
-		<link rel="stylesheet" href="css/custom.css">
+		<link rel="stylesheet" href="cssnya/custom.css">
 
 		<!-- Head Libs -->
-		<script src="vendor/modernizr/modernizr.min.js"></script>
+		<script src="vendornya/modernizr/modernizr.min.js"></script>
 
 	</head>
 	<body data-target="#header" data-spy="scroll" data-offset="100">
@@ -122,7 +122,7 @@
 					<div id="revolutionSlider" class="slider rev_slider manual">
 						<ul>
 							<li data-transition="notransition">
-								<img src="img/tes.jpg" 
+								<img src="imgnya/tes.jpg" 
 									alt=""
 									data-bgposition="center center" 
 									data-bgfit="cover" 
@@ -175,7 +175,7 @@
 									data-responsive_offset="on" 
 									style="z-index: 8;">
 										<div class="rs-looped rs-pendulum" data-easing="linearEaseNone" data-startdeg="-20" data-enddeg="360" data-speed="35" data-origin="50% 50%">
-											<img src="img/demos/wedding/blurflake4.png" alt="" width="240" height="240" data-ww="['240px','240px','240px','240px']" data-hh="['240px','240px','240px','240px']" data-no-retina> 
+											<img src="imgnya/demos/wedding/blurflake4.png" alt="" width="240" height="240" data-ww="['240px','240px','240px','240px']" data-hh="['240px','240px','240px','240px']" data-no-retina> 
 										</div>
 								</div>
 
@@ -192,7 +192,7 @@
 									data-responsive_offset="on"
 									style="z-index: 9;">
 										<div class="rs-looped rs-wave" data-speed="20" data-angle="0" data-radius="50px" data-origin="50% 50%">
-											<img src="img/demos/wedding/blurflake3.png" alt="" width="170" height="170" data-ww="['170px','170px','170px','170px']" data-hh="['170px','170px','170px','170px']" data-no-retina> 
+											<img src="imgnya/demos/wedding/blurflake3.png" alt="" width="170" height="170" data-ww="['170px','170px','170px','170px']" data-hh="['170px','170px','170px','170px']" data-no-retina> 
 										</div>
 								</div>
 
@@ -209,7 +209,7 @@
 									data-responsive_offset="on" 
 									style="z-index: 10;">
 										<div class="rs-looped rs-rotate" data-easing="Power2.easeInOut" data-startdeg="-20" data-enddeg="360" data-speed="20" data-origin="50% 50%">
-											<img src="img/demos/wedding/blurflake2.png" alt="" width="50" height="51" data-ww="['50px','50px','50px','50px']" data-hh="['51px','51px','51px','51px']" data-no-retina> 
+											<img src="imgnya/demos/wedding/blurflake2.png" alt="" width="50" height="51" data-ww="['50px','50px','50px','50px']" data-hh="['51px','51px','51px','51px']" data-no-retina> 
 										</div>
 								</div>
 
@@ -226,7 +226,7 @@
 									data-responsive_offset="on" 
 									style="z-index: 11;">
 										<div class="rs-looped rs-wave" data-speed="4" data-angle="0" data-radius="10" data-origin="50% 50%">
-											<img src="img/demos/wedding/blurflake1.png" alt="" width="120" height="120" data-ww="['120px','120px','120px','120px']" data-hh="['120px','120px','120px','120px']" data-no-retina> 
+											<img src="imgnya/demos/wedding/blurflake1.png" alt="" width="120" height="120" data-ww="['120px','120px','120px','120px']" data-hh="['120px','120px','120px','120px']" data-no-retina> 
 										</div>
 								</div>
 							</li>
@@ -241,7 +241,7 @@
 								<div class="thumb-bride-groom text-center appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0">
 									<div class="bride-groom-bg">
 										<div class="bride-groom-photo">
-											<img src="img/preweding/foto_2.jpeg" alt />
+											<img src="imgnya/preweding/foto_2.jpeg" alt />
 										</div>
 									</div>
 									<div class="bride-groom-infos">
@@ -260,7 +260,7 @@
 								<div class="thumb-bride-groom text-center appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
 									<div class="bride-groom-bg groom-background-style">
 										<div class="bride-groom-photo">
-											<img src="img/demos/wedding/bride-groom/groom.jpg" alt />
+											<img src="imgnya/demos/wedding/bride-groom/groom.jpg" alt />
 										</div>
 									</div>
 									<div class="bride-groom-infos">
@@ -397,10 +397,10 @@
 							<div class="col-md-8 col-lg-5 mt-5 pt-5">
 								<div class="wedding-schedule text-center appear-animation" data-appear-animation="fadeInLeft" data-appear-animation-delay="0">
 									<div class="wedding-schedule-photo">
-										<img src="img/kembang.jpg" alt="bunga" style="width: 100%; height: 100%"/>
+										<img src="imgnya/kembang.jpg" alt="bunga" style="width: 100%; height: 100%"/>
 									</div>
 									<div class="wedding-schedule-background"></div>
-									<img class="icon-heart-white-border" src="img/demos/wedding/the-wedding/icon-heart-white-border.png" alt />
+									<img class="icon-heart-white-border" src="imgnya/demos/wedding/the-wedding/icon-heart-white-border.png" alt />
 									<div class="wedding-schedule-infos">
 										<h2 class="mt-3 mb-0">Acara Pernikahan</h2>
 										<span class="date text-uppercase text-color-primary font-weight-semibold">Minggu, 20 Januari 2019</span>
@@ -421,10 +421,10 @@
 							<!-- <div class="col-md-8 col-lg-5 mt-5 pt-5">
 								<div class="wedding-schedule text-center appear-animation" data-appear-animation="fadeInRight" data-appear-animation-delay="0">
 									<div class="wedding-schedule-photo">
-										<img src="img/demos/wedding/the-wedding/the-wedding-party.jpg" alt />
+										<imgnya src="imgnya/demos/wedding/the-wedding/the-wedding-party.jpg" alt />
 									</div>
 									<div class="wedding-schedule-background"></div>
-									<img class="icon-heart-white-border" src="img/demos/wedding/the-wedding/icon-heart-white-border.png" alt />
+									<imgnya class="icon-heart-white-border" src="imgnya/demos/wedding/the-wedding/icon-heart-white-border.png" alt />
 									<div class="wedding-schedule-infos">
 										<h2 class="mt-3 mb-0">Wedding Party</h2>
 										<span class="date text-uppercase text-color-primary font-weight-semibold">Saturday, 10th June 2019</span>
@@ -440,7 +440,7 @@
 						</div>
 					</div>
 				</section>
-				<section class="testimonials parallax section section-parallax section-center m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="img/demos/wedding/testimonial/testimonial-parallax-bg.jpg">
+				<section class="testimonials parallax section section-parallax section-center m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="imgnya/demos/wedding/testimonial/testimonial-parallax-bg.jpg">
 					<div class="container">
 						<div class="row justify-content-center mt-2 pt-3 mb-2 pb-3">
 							<div class="owl-carousel owl-theme nav-bottom rounded-nav m-0" data-plugin-options="{'items': 1, 'loop': false, 'dots': false, 'autoplay': true, 'autoplayTimeout': 10000}">
@@ -504,10 +504,10 @@ Kel Besar Bpk. Nuh(alm)
 						<div id="historyLoadMoreWrapper" class="row pt-4 history-list" data-total-pages="2">
 							<div class="col-lg-6 mb-4">
 								<div class="history-item">
-									<a href="img/preweding/foto_1.jpeg" class="text-decoration-none">
+									<a href="imgnya/preweding/foto_1.jpeg" class="text-decoration-none">
 										<span class="thumb-info thumb-info-lighten">
 											<span class="thumb-info-wrapper m-0">
-												<img src="img/preweding/foto_1.jpeg" class="img-fluid" alt="">
+												<img src="imgnya/preweding/foto_1.jpeg" class="imgnya-fluid" alt="">
 												<span class="thumb-info-title text-uppercase font-weight-bold">
 													
 												</span>
@@ -522,10 +522,10 @@ Kel Besar Bpk. Nuh(alm)
 							</div>
 							<div class="col-md-6 col-lg-3 mb-3">
 								<div class="history-item">
-									<a href="img/preweding/foto_2.jpeg" class="text-decoration-none">
+									<a href="imgnya/preweding/foto_2.jpeg" class="text-decoration-none">
 										<span class="thumb-info thumb-info-lighten">
 											<span class="thumb-info-wrapper m-0">
-												<img src="img/preweding/foto_2.jpeg" class="img-fluid" alt="">
+												<img src="imgnya/preweding/foto_2.jpeg" class="imgnya-fluid" alt="">
 												<span class="thumb-info-title text-uppercase font-weight-bold">
 												
 												</span>
@@ -540,10 +540,10 @@ Kel Besar Bpk. Nuh(alm)
 							</div>
 							<div class="col-md-6 col-lg-3 mb-3">
 								<div class="history-item">
-									<a href="img/preweding/foto_3.jpeg" class="text-decoration-none">
+									<a href="imgnya/preweding/foto_3.jpeg" class="text-decoration-none">
 										<span class="thumb-info thumb-info-lighten">
 											<span class="thumb-info-wrapper m-0">
-												<img src="img/preweding/foto_3.jpeg" class="img-fluid" alt="">
+												<img src="imgnya/preweding/foto_3.jpeg" class="imgnya-fluid" alt="">
 												<span class="thumb-info-title text-uppercase font-weight-bold">
 													
 												</span>
@@ -559,10 +559,10 @@ Kel Besar Bpk. Nuh(alm)
 
 							<div class="col-md-6 col-lg-3 mb-3">
 								<div class="history-item">
-									<a href="img/preweding/foto_4.jpeg" class="text-decoration-none">
+									<a href="imgnya/preweding/foto_4.jpeg" class="text-decoration-none">
 										<span class="thumb-info thumb-info-lighten">
 											<span class="thumb-info-wrapper m-0">
-												<img src="img/preweding/foto_4.jpeg" class="img-fluid" alt="">
+												<img src="imgnya/preweding/foto_4.jpeg" class="imgnya-fluid" alt="">
 												<span class="thumb-info-title text-uppercase font-weight-bold">
 													
 												</span>
@@ -593,7 +593,7 @@ Kel Besar Bpk. Nuh(alm)
 					</div>
 				</section>
                
-               <section class="wedding-countdown parallax section section-text-light section-parallax section-center m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="img/waktu.jpg">
+               <section class="wedding-countdown parallax section section-text-light section-parallax section-center m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="imgnya/waktu.jpg">
 					<div class="container">
 						<div class="row justify-content-center mt-5 mb-5 pt-1 pb-4">
 							<div class="col-lg-8">
@@ -608,36 +608,36 @@ Kel Besar Bpk. Nuh(alm)
 			
 			</div>
 		</div>
-		<!-- Vendor -->
-		<script src="vendor/jquery/jquery.min.js"></script>
-		<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
-		<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
-		<script src="vendor/jquery-cookie/jquery-cookie.min.js"></script>
-		<script src="vendor/popper/umd/popper.min.js"></script>
-		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-		<script src="vendor/common/common.min.js"></script>
-		<script src="vendor/jquery.validation/jquery.validation.min.js"></script>
-		<script src="vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js"></script>
-		<script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
-		<script src="vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
-		<script src="vendor/isotope/jquery.isotope.min.js"></script>
-		<script src="vendor/owl.carousel/owl.carousel.min.js"></script>
-		<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-		<script src="vendor/vide/vide.min.js"></script>
-		<script src="vendor/jquery.countdown/jquery.countdown.min.js"></script>
+		<!-- Vendornya -->
+		<script src="vendornya/jquery/jquery.min.js"></script>
+		<script src="vendornya/jquery.appear/jquery.appear.min.js"></script>
+		<script src="vendornya/jquery.easing/jquery.easing.min.js"></script>
+		<script src="vendornya/jquery-cookie/jquery-cookie.min.js"></script>
+		<script src="vendornya/popper/umd/popper.min.js"></script>
+		<script src="vendornya/bootstrap/js/bootstrap.min.js"></script>
+		<script src="vendornya/common/common.min.js"></script>
+		<script src="vendornya/jquery.validation/jquery.validation.min.js"></script>
+		<script src="vendornya/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js"></script>
+		<script src="vendornya/jquery.gmap/jquery.gmap.min.js"></script>
+		<script src="vendornya/jquery.lazyload/jquery.lazyload.min.js"></script>
+		<script src="vendornya/isotope/jquery.isotope.min.js"></script>
+		<script src="vendornya/owl.carousel/owl.carousel.min.js"></script>
+		<script src="vendornya/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script src="vendornya/vide/vide.min.js"></script>
+		<script src="vendornya/jquery.countdown/jquery.countdown.min.js"></script>
 		<!-- Theme Base, Components and Settings -->
-		<script src="js/theme.js"></script>
-		<!-- Current Page Vendor and Views -->
-		<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-		<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-		<!-- Current Page Vendor and Views -->
-		<script src="js/views/view.contact.js"></script>
+		<script src="jsnya/theme.js"></script>
+		<!-- Current Page Vendornya and Views -->
+		<script src="vendornya/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+		<script src="vendornya/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+		<!-- Current Page Vendornya and Views -->
+		<script src="jsnya/views/view.contact.js"></script>
 		<!-- Demo -->
-		<script src="js/demos/demo-wedding.js"></script>
+		<script src="jsnya/demos/demo-wedding.js"></script>
 		<!-- Theme Custom -->
-		<script src="js/custom.js"></script>
+		<script src="jsnya/custom.js"></script>
 		<!-- Theme Initialization Files -->
-		<script src="js/theme.init.js"></script>
+		<script src="jsnya/theme.init.js"></script>
 		
 		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
 		<script>
